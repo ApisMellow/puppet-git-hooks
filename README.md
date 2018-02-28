@@ -131,8 +131,6 @@ Maintainers
 
   * [David Wahlstrom](https://github.com/drwahl)
   * [Paweł Szczepaniak](https://github.com/krzyzakp)
+  * [David Whitlock](https://github.com/apismellow)
 
-We are still looking for additional maintainers. Please contact me via
-[github issue](https://github.com/drwahl/puppet-git-hooks/issues/new)
-if you are interested in helping maintain this project. Thank you!
 
